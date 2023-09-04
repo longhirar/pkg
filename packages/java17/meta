@@ -1,0 +1,6 @@
+{
+    "id": "java17",
+    "version": "17.0.1",
+    "desc": "Java Development Kit 17.0.1",
+    "install":"https://pkg.longhi.me/packages/java17/install"
+}

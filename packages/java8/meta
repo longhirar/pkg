@@ -1,0 +1,6 @@
+{
+    "id": "java8",
+    "version": "1.8",
+    "desc": "Java Development Kit 1.8",
+    "install":"https://pkg.longhi.me/packages/java8/install"
+}
